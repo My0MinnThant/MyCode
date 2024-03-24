@@ -29,7 +29,7 @@
 
    </table>
 
-   <a href="{{ route('test.index')}}" >Back to Home</a>
+ 
 
 
    </div>
